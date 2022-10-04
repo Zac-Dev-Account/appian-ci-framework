@@ -1,0 +1,105 @@
+{
+    "fields": [
+        {
+            "label": "Resource Title",
+            "value": "Senior Engineer"
+        },
+
+        {
+            "label": "Is This Procurement for Yourself?",
+            "value": "No"
+        },
+
+        {
+            "label": "Requestor",
+            "value": "John Smith"
+        },
+
+        {
+            "label": "Division",
+            "value": "OFFICE OF THE CE"
+        },
+
+        {
+            "label": "Directorate",
+            "value": "INFORMATION SERVICES"
+        },
+
+        {
+            "label": "Section",
+            "value": "PB OPERATIONAL SERVICES"
+        },
+
+        {
+            "label": "Is this a regional supplier contract?",
+            "value": "Yes"
+        },
+
+        {
+            "label": "Contract Type",
+            "value": "Other Temporary Staff Services Contract"
+        },
+
+        {
+            "label": "Category",
+            "value": "Labour Hire"
+        },
+
+        {
+            "label": "Equivalent Classification Level",
+            "value": "PO5"
+        },
+
+        {
+            "label": "Panel Contractor",
+            "value": "No"
+        },
+
+        {
+            "label": "Contractor Name",
+            "value": "Homer Simpson"
+        },
+
+        {
+            "label": "Planned Start Date",
+            "value": "02/02/2022"
+        },
+
+        {
+            "label": "Planned End Date",
+            "value": "02/03/2022"
+        },
+
+        {
+            "label": "Term Type",
+            "value": "New engagement"
+        },
+
+        {
+            "label": "Estimated Cost (GST inclusive)",
+            "value": "500"
+        },
+
+
+        {
+            "label": "Project Code",
+            "value": "12466778"
+        },
+
+        {
+            "label": "Task Code",
+            "value": "10007"
+        },
+
+        {
+            "label": "Reason/Justification",
+            "value": "HelloWorld"
+        },
+
+        {
+            "label": "Endorser",
+            "value": "Zachary Coster"
+        }
+
+    ]
+}

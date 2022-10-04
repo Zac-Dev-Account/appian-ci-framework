@@ -1,0 +1,41 @@
+{
+    "approve": {
+        "fields": [
+            {
+                "label": "Please Choose Your Response",
+                "value": "Approve"
+            },
+
+            {
+                "label": "Internal Clearance Number",
+                "value": "ABC123"
+            }
+        ]
+    },
+
+    "requestMoreInfo": {
+        "fields": [
+            {
+                "label": "Please Choose Your Response",
+                "value": "Request More Information"
+            },
+            {
+                "label": "Please specify what information you require from the Applicant.",
+                "value": "This is a test response"
+            }
+        ]
+    },
+
+    "decline": {
+        "fields": [
+            {
+                "label": "Please Choose Your Response",
+                "value": "Decline"
+            },
+            {
+                "label": "Please specify why you have declined this request.",
+                "value": "This is a test response"
+            }
+        ]
+    }
+}
